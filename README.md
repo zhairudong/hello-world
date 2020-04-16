@@ -14,3 +14,4 @@ Test readme.md file commit to branch of readme-edits.
 冲突本地
 
 冲突本地
+测试idea之git使用
