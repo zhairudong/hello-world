@@ -7,4 +7,4 @@ Test readme.md file commit to branch of readme-edits.
 第二次测试remote fetch
 冲突
 
-冲突本地
+冲突远程
